@@ -79,4 +79,3 @@ To run the Ping CRM tests, run:
 ```
 phpunit
 ```
-testing
